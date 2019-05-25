@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+<category>
+    <pattern>BONJOUR</pattern>
+    <template>Bonjour Monsieur</template>
+</category>
+
+<category>
+    <pattern>COMMENT VA TU</pattern>
+    <template>ca va bien merci monsieur</template>
+</category> 
+
+<category>
+    <pattern>COMMENT t'appelle tu</pattern>
+    <template><srai>NOM</srai></template>
+</category> 
+
+<category>
+    <pattern>*</pattern>
+    <template>Je ne comprend pas ce que vous dites Monsieur</template>
+</category>
+
+<category>
+    <pattern>NOM</pattern>
+    <template>Je m'appelle <bot name="name"/>.</template>
+</category>
+
+<category>
+    <pattern>Allume * <SET>HOMES</SET></pattern>
+    <template><star/> <star index="2"/> est allumée Monsieur</template>
+</category>
+
+<category>
+    <pattern>ACTIVE * <SET>HOMES</SET></pattern>
+    <template>Activation du <star index="2"/>.</template>
+</category>
+</aiml>

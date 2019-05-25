@@ -1,0 +1,9 @@
+#JSGF V1.0;
+grammar sentence;
+
+public <greetings> = Bonjour | Salut | Bonsoir;
+public <asks> = Comment va tu;
+public <askName> = Comment t'appelle tu?;
+public <names> = lisa | paul | noela | berthon;
+public <completegreetings> = <greetings>[<names>];
+public <homes> = (allumer | allume | ouvre | eteindre | Active)(le | la)(porte | lumiere | ventillateur);

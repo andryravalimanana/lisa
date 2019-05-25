@@ -1,0 +1,8 @@
+url:http://www.facebook.com/andry.ravalimanana
+name:LISA
+email:andry-niaina@yandex.com
+gender:femal
+botmaster:Andry Ravalimanana
+organization:AITIC
+version:1.0.0
+
