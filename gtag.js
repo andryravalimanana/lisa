@@ -1,2 +1,4 @@
-(function showLog(){console.log("============== Gtag ============");})();
+function showLog(){
+  console.log("============== Gtag ============");
+};
 
