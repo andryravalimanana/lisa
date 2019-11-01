@@ -1,7 +1,7 @@
 ## ASSISTANTE VIRTUELLE
 **Project name:** **L**ocal **I**ntelligent **S**ystem **A**gent
 
-#### Ireto daholo no hita ato aminíty prototype ity:**
+#### Ireto daholo no hita ato aminíty prototype ity:
 
  - Reconnaissance vocale avec JSAPI Cloudgarden
 - Chatbot avec Programm-AB et le langage AIML
