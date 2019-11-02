@@ -21,18 +21,18 @@
 - Cliquer sur l'onglet reconaissance vocale et creer un profil
 - Faire un apprentissage pour avoir de la precision
 
-#### HOW GET PROJECT?
+#### HOW TO GET PROJECT?
 
 1) Midira ao amin'ny dossier misy ny projet netbeans: C:\Users\...\Documents\NetBeansProjects
 2) Cloner le projet sur github: taper sur la ligne de commande.
 
 ```shell
-git clone https://github.com/andryravalimanana/jsapi.git
+git clone https://github.com/andryravalimanana/lisa.git
 ```
 
 
-3) Midira ao anaty le projet jsapi. misy dossier lib ao.
-4) Copier C:\Users\...\Documents\NetBeansProjects\jsapi\lib\cgjsapi170.dll dans C:\Program Files (x86)\Java\jdk1.8.0_31\bin
+3) Midira ao anaty le projet lisa. misy dossier lib ao.
+4) Copier C:\Users\...\Documents\NetBeansProjects\lisa\lib\cgjsapi170.dll dans C:\Program Files (x86)\Java\jdk1.8.0_31\bin
 5) Rehefa vita zay de lanceo fa tokony mande
 
 #### ARCHITECTURE DU PROJETS:
